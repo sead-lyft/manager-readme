@@ -32,7 +32,7 @@ This document and I are a work in progress.
 - Teams and individuals should continuously strive to get better. I believe in the saying “If you’re not getting better, you’re getting worse.”
 ### Communication
 Nothing in my job is more important than being available to you. In addition to the meetings I describe below, you can contact me at any time if you need to talk — in person, call, text, Slack, or email.
-###### 1-on-1s
+##### 1-on-1s
 - 30 minutes every two weeks.
 - These are for you. They are a safe space to talk about anything you want. If you have some topics in mind send me a message beforehand so I can prepare and make the meeting more effective.
 - I will be close enough to your work to have informed thoughts.
