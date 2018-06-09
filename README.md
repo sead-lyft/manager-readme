@@ -1,4 +1,4 @@
-###What is this?
+### What is this?
 This is my [Manager README](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe). It is intended to introduce who I am, what I do, my values, and some expectations on working together. It is not a replacement for actually getting to know each other. The intended audience are primarily engineers that work with me, but I hope others find it valuable.
 
 There are two reasons for this document:
@@ -7,7 +7,7 @@ There are two reasons for this document:
 
 This document and I are a work in progress.
 
-###About me
+### About me
 - I’m married to my wife Sakiba.
 - I was born in Bosnia and lived in Germany. Before moving to Nashville I lived in Kentucky.
 - I enjoy travelling.
@@ -16,13 +16,13 @@ This document and I are a work in progress.
 - I’m passionate about software.
 - I’m interested in learning about you, and sharing more about me.
 
-###What is my job?
+### What is my job?
 - Hire, develop, and retain top engineering talent.
 - Build effective teams.
 - Help teams win by providing context, coaching, and removing roadblocks.
 - Contribute hands-on to our products.
 
-###What do I value?
+### What do I value?
 - I believe that code has value if it’s in production and helps people. While both of the below are very important, #1 is more important.
   1. Build the right thing
   2. Build the thing right
@@ -30,9 +30,9 @@ This document and I are a work in progress.
 - I have a [bias toward action](http://leadwithgiantscoaching.com/the-number-trait-of-successful-people/). That doesn’t mean we shouldn’t plan and think things through before jumping in. It does mean that after a (short) while we should commit to a direction and act on it with a lot of intensity.
 - I believe in [lean startup principles](http://theleanstartup.com/) and [lightweight processes](https://medium.com/soluto-nashville/10-journey-team-best-practices-95b73cad75b). If we hire and develop talented and responsible people we only need a minimal amount of process.
 - Teams and individuals should continuously strive to get better. I believe in the saying “If you’re not getting better, you’re getting worse.”
-###Communication
+### Communication
 Nothing in my job is more important than being available to you. In addition to the meetings I describe below, you can contact me at any time if you need to talk — in person, call, text, Slack, or email.
-######1-on-1s
+###### 1-on-1s
 - 30 minutes every two weeks.
 - These are for you. They are a safe space to talk about anything you want. If you have some topics in mind send me a message beforehand so I can prepare and make the meeting more effective.
 - I will be close enough to your work to have informed thoughts.
@@ -44,11 +44,11 @@ Nothing in my job is more important than being available to you. In addition to 
   * Give each other constructive and candid feedback. We can use a Green, Orange, and Red scale.
   * If you feel there are any problems on the team, even small ones, I like to know early so that we can address them before they become big.
   * Specific examples of things that are not going well help us come up with actionable tasks.
-#####Staff meeting
+##### Staff meeting
   * 45 minutes every two weeks.
   * This is a chance for me to update you on big picture stuff and cover any topics you want to discuss as a team.
 
-###How to be successful when working with me
+### How to be successful when working with me
 - Have clear and aligned goals. The task you work on should be aligned with your team’s goals. And your team’s goals should be aligned with organizational goals.
 - Be transparent about goals, progress, and problems. Over communicate.
 - You need talent. Good engineering is hard.
