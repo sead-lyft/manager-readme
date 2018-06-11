@@ -23,7 +23,7 @@ This document and I are a work in progress.
 - Contribute hands-on to our products.
 
 ### What do I value?
-- I believe that code has value if it’s in production and helps people. While both of the below are very important, the first is more important.
+- I believe that code has real value if it’s in production and helps people. While both of the below are very important, the first is more important.
   * Build the right thing
   * Build the thing right
 - Talent is important. But it is not enough. Hard work and grit is critical to success in anything you do in life.
