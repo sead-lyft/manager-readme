@@ -60,3 +60,8 @@ Nothing in my job is more important than being available to you. In addition to 
 - If you break something, it’s okay. But you should own it and take the lead on fixing it.
 - Put the team first. If the teams succeeds, so will you.
 - I make mistakes. Let me know when I do. And challenge me when you disagree.
+
+### Connect With Me
+- [My Articles On Medium](https://medium.com/@sead.dzelil)
+- [LinkedIn](https://www.linkedin.com/in/sead-dzelil-7732a161)
+- [My Team](http://www.solutonashville.com/)
