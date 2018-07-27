@@ -20,7 +20,7 @@ This document and I are a work in progress.
 - Hire, develop, and retain top engineering talent.
 - Build effective teams.
 - Help teams win by providing context, coaching, and removing roadblocks.
-- Contribute hands-on to our products.
+- Contribute hands-on to our products through architecture and code.
 
 ### What do I value?
 - I believe that code has real value if it’s in production and helps people. While both of the below are very important, the first is more important.
