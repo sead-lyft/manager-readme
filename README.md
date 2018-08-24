@@ -45,9 +45,6 @@ Nothing in my job is more important than being available to you. In addition to 
   * If you feel there are any problems on the team, even small ones, I like to know early so that we can address them before they become big.
   * Specific examples of things that are not going well help us come up with actionable tasks.
   * Bringing up problems is good. Bringing up a few possible solutions is even better.
-##### Staff meeting
-  * 45 minutes every two weeks.
-  * This is a chance for me to update you on big picture stuff and cover any topics you want to discuss as a team.
 
 ### How to be successful when working with me
 - Have clear and aligned goals. The task you work on should be aligned with your team’s goals. And your team’s goals should be aligned with organizational goals.
