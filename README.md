@@ -30,8 +30,9 @@ This document and I are a work in progress.
 - I have a [bias toward action](http://leadwithgiantscoaching.com/the-number-trait-of-successful-people/). That doesn’t mean we shouldn’t plan and think things through before jumping in. It does mean that after a (short) while we should commit to a direction and act on it with a lot of intensity.
 - I believe in [lean startup principles](http://theleanstartup.com/) and [lightweight processes](https://medium.com/soluto-nashville/10-journey-team-best-practices-95b73cad75b). If we hire and develop talented and responsible people we only need a minimal amount of process.
 - Teams and individuals should continuously strive to get better. I believe in the saying “If you’re not getting better, you’re getting worse.”
+
 ### Communication
-Nothing in my job is more important than being available to you. In addition to the meetings I describe below, you can contact me at any time if you need to talk — in person, call, text, Slack, or email.
+Nothing in my job is more important than being available to you. In addition to the meeting I describe below, you can contact me at any time if you need to talk — in person, call, text, Slack, or email.
 ##### 1-on-1s
 - 30 minutes every two weeks.
 - These are for you. They are a safe space to talk about anything you want. If you have some topics in mind send me a message beforehand so I can prepare and make the meeting more effective.
