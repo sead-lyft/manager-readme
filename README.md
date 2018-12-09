@@ -58,4 +58,4 @@ Nothing in my job is more important than being available to you. In addition to 
 ### Connect With Me
 - [My Articles On Medium](https://medium.com/@sead.dzelil)
 - [LinkedIn](https://www.linkedin.com/in/sead-dzelil-7732a161)
-- [My Team](http://www.solutonashville.com/)
+- [Our Team](https://eng.lyft.com/)
