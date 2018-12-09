@@ -49,11 +49,8 @@ Nothing in my job is more important than being available to you. In addition to 
 ### How to be successful when working with me
 - Have clear and aligned goals. The task you work on should be aligned with your team’s goals. And your team’s goals should be aligned with organizational goals.
 - Be transparent about goals, progress, and problems. Over communicate.
-- You need talent. Good engineering is hard.
-- You need to work hard. Hard work is critical to success in anything you do in life. It is more important than talent. Pursue your goals with intensity.
 - You need focus. As an engineer, most of your time should be [deep work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692). The more deep work hours you can get every day, the more successful you will be. When you code, you are most effective after you’ve been doing it for about 30 minutes with no distractions. When you get distracted for a few minutes, it takes almost the same amount of time to get in the flow again. Maximize the amount of continuous time that you are “in the zone" and you will do amazing engineering work.
 - Make professional decisions. Most of the stuff we work on is very cool and a lot of fun. Not everything will be. You should do whatever it takes to help your team succeed.
-- Continuous improvement. Always think about how you can get even better, prioritize, and work on it.
 - If you break something, it’s okay. But you should own it and take the lead on fixing it.
 - Put the team first. If the teams succeeds, so will you.
 - I make mistakes. Let me know when I do. And challenge me when you disagree.
