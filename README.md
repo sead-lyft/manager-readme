@@ -72,6 +72,7 @@ I serve you, not the other way around. Let me know how I can help!
 - ***I empower people.*** I don't micromanage and I'm not authoritative. I trust people to do the job that they were hired to do.
 - ***I'm attentive.*** I listen and observe to find problems, find things to improve, and to recognize good work.
 - ***I'm empathetic.*** I care deeply about my direct reports, other team members, and our users. I try to put myself in other people's shoes.
+- ***I'm genuine.*** My communication is not very polished. But I'm honest and I speak from my heart.
 - ***I'm driven.*** I don't procrastinate and I'm generally on top of my todo list.
 - ***I understand what it takes to build software.*** That includes among other things: process, architecture, design, and code. I've done backend, frontend, and even some infrastructure development in the past. You can bounce technical designs off me and I will ask questions and offer suggestions to help you come up with a good design. I'm a lot better at this than a [rubber duck] (https://rubberduckdebugging.com/).
 
