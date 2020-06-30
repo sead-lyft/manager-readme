@@ -75,7 +75,7 @@ I serve you, not the other way around. Let me know how I can help!
 - ***I'm genuine.*** My communication is not very polished. But I'm honest and I speak from my heart.
 - ***I'm driven.*** I don't procrastinate and I'm generally on top of my todo list. I have a bias for action, so if you need something from me you can count on me taking action on it in a timely manner.
 - ***I understand what it takes to build good teams.*** That includes hiring the right people, putting in place good processes, and building good team cohesion.
-- ***I understand what it takes to build software.*** That includes among other things: process, architecture, design, and code. I've done backend, frontend, and even some infrastructure development in the past. You can bounce technical designs off me and I will ask questions and offer suggestions to help you come up with a good design. I'm a lot better at this than a [rubber duck] (https://rubberduckdebugging.com/).
+- ***I understand what it takes to build good software.*** That includes among other things: process, architecture, design, and code. I've done backend, frontend, and even some infrastructure development in the past. You can bounce technical designs off me and I will ask questions and offer suggestions to help you come up with a good design. I'm a lot better at this than a [rubber duck] (https://rubberduckdebugging.com/).
 
 #### Some things that I'm not good at yet (there are others) <a name="notgood"></a>
 - ***I'm not as good at written communication as I'd like to be.*** This is something that I'm working on.
