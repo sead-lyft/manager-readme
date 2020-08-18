@@ -186,6 +186,7 @@ Every team is different so there is no magic bullet when it comes to process. We
   * [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) - A time management method that helps you focus deeply on tasks. I use this [browser plugin](https://chrome.google.com/webstore/detail/marinara-pomodoro%C2%AE-assist/lojgmehidjdhhbmpjfamhpkpodfcodef?hl=en).
 - Do the simple things very well. Many things in Software Development are complex. For example, accounting for every single edge case during testing. But some things fall into the simple category. We should consistently get 100% on the simple things.
   * Test code locally before deploying to staging, test code in staging before deploying to production, and monitor code in production after a deployment.
+  * Be on time to meetings.
   * Respond to production incidents promptly when you're on call.
   * Pull work proactively.
 - Have a [bias toward action](https://www.heinzmarketing.com/2009/09/bias-for-action/). If you are struggling to choose between two or more options, and the decision is reversible, pick one and start executing.
