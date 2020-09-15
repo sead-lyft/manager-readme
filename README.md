@@ -175,6 +175,7 @@ Every team is different so there is no magic bullet when it comes to process. We
 - I am a big fan of lean development principles, which I would summarize as: working in small batches, validating assumptions, and iterating.
 - Large batches increase complexity and slow development down. A general rule of thumb: if your Pull Request is larger than 2 days of work, or if your task is more than 2 days long, your batch is likely too large. You should break the task down.
 - Get things to production early and often. Code that doesn’t make it to production is waste. Early code in production (with the right feature flags of course) reduces risk and shortens the feedback loop.
+- Always ship code the moment it is better than what is currently live in production.
 - When working on any non-trivial task, you should design your solution first before writing any code. I believe that 80% of engineering effort should be spent on design, and 20% should be spent on code. Following this rule of thumb will lead to cleaner code and reduce the chance of bugs and missing support for edge cases.
 - I'm a big fan of pair programming. It leads to better quality code due to constant code review, spreads knowledge on the team, and the tasks get completed faster.
 
